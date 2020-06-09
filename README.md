@@ -1,2 +1,4 @@
 # ActiveBox.github.io
- Moder designed landing page created to practice my HTML-CSS skills.
+ Modern designed landing page created to practice my HTML-CSS skills.
+ 
+ Link: https://david245m.github.io/activebox.github.io/#/
